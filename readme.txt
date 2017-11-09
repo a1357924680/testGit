@@ -8,3 +8,5 @@ My stupid boss still prefers SVN.
 
 
 push 到远程仓库
+
+Creating a new branch is quick.
