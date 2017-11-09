@@ -5,3 +5,6 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git tracks changes of files.
 My stupid boss still prefers SVN.
+
+
+push 到远程仓库
