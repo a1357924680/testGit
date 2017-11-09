@@ -15,4 +15,4 @@ Creating a new branch is quick2.
 
 on dev
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
